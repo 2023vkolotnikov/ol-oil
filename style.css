@@ -1,0 +1,91 @@
+.bg-purple{
+  background-color: #563d7c;
+}
+.navbar{
+  width: 100%;
+}
+.col-sm{
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-bottom: 100px;
+  position: relative;
+  top: 190px;
+}
+.c1{
+  margin-right: 100px;
+}
+.c2{
+  margin-left: 250px;
+
+}
+.pic{
+  width: 350px;
+}
+.pic-big{
+  width: 500px
+}
+.pic-xbig{
+  width: 350px;
+  margin-left: 370px;
+  position: relative;
+  bottom: 600px;
+}
+#searchIcon{
+  position: absolute;
+  left: 95%;
+
+}
+#body{
+  background-color: rgb(248,249,250)
+}
+.row{
+  margin-top: 10px;
+}
+#full1{
+  margin-top: 10px;
+  margin-left: 20px
+}
+.dtCheckout{
+  position: absolute;
+  left: 320px;
+  top: 710px;
+}
+.npCheckout{
+  position: absolute;
+  left: 320px;
+  top: 360px;
+}
+.ltCheckout{
+  position: absolute;
+  left: 1030px;
+  top: 360px
+}
+.rcCheckout{
+  position: absolute;
+  top: 710px;
+  left: 1030px;
+}
+.tCheckout{
+  position: absolute;
+  left: 680px
+}
+.flexBox{
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  margin-left: 20px
+}
+.cbCheckout{
+  margin-top: 10px;
+}
+.m7, .m6{
+  position: relative;
+  margin-top: 60px;
+  left: 60px
+}
+.lCheckout{
+  margin-left: 150px
+}
+.rCheckout{
+  margin-left: 200px
+}
